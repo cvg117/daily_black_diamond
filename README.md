@@ -17,6 +17,8 @@ multiline.js - A javascript file written primarily with the D3 package to create
 
 street_rings.js - A javascript file written primarily with the D3 package to create Broken Spokes: Chicago's Most Dangerous Streets.
 
+styles.css - A css file providing styling for report page.
+
 ### CHART DATA FILES
 
 chicago.json - A json file containing the Chicago polygon data for creating the map framework in map.js, entitled Severe Incidents on Chicago's Spoke and Wheel.
