@@ -28,7 +28,7 @@ map_data.json - A json file containing the complete set of car-on-bike incidents
 multiline_data_v2.csv - A csv file containing the underlying data for Hits or Headers: Comparing Accident Counts to Damage Done, an analysis of car-on-car vs car-on-human incidents and their relative severity ratings.
 
 rings_binned.json - A json file containing information on Chicago's six most dangerous streets for bikers. Organized by street name, it bins several dozen causal categories as determined by reporting officers into "Driver Error", "Undetermined", and "Environmental". Provides the underlying data for Broken Spokes: Chicago's Most Dangerous Streets.
-1. Driver Error: [
+1. Driver Error: 
     +'DISREGARDING TRAFFIC SIGNALS',
     +'FOLLOWING TOO CLOSELY',
     +'OPERATING VEHICLE IN ERRATIC, RECKLESS, CARELESS, NEGLIGENT OR AGGRESSIVE MANNER',
@@ -57,8 +57,8 @@ rings_binned.json - A json file containing information on Chicago's six most dan
     +'DISTRACTION - FROM INSIDE VEHICLE',
     +'TEXTING',
     +'DISTRACTION - OTHER ELECTRONIC DEVICE (NAVIGATION DEVICE, DVD PLAYER, ETC.)'
-]
-2. Environmental: [
+
+2. Environmental:
     +'VISION OBSCURED (SIGNS, TREE LIMBS, BUILDINGS, ETC.)',
     +'ROAD ENGINEERING/SURFACE/MARKING DEFECTS',
     +'EVASIVE ACTION DUE TO ANIMAL, OBJECT, NONMOTORIST',
@@ -68,8 +68,8 @@ rings_binned.json - A json file containing information on Chicago's six most dan
     +'ROAD CONSTRUCTION/MAINTENANCE',
     +'RELATED TO BUS STOP',
     +'ANIMAL'
-]
-3. Undefined: [
+
+3. Undefined:
     +'UNABLE TO DETERMINE',
     +'NOT APPLICABLE'
-]
+
